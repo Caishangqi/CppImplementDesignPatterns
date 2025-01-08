@@ -163,12 +163,15 @@
     <ClInclude Include="AbstractFactory.h" />
     <ClInclude Include="AbstractProductA.h" />
     <ClInclude Include="AbstractProductB.h" />
+    <ClInclude Include="common.h" />
     <ClInclude Include="ConcreteFactory1.h" />
     <ClInclude Include="ConcreteFactory2.h" />
     <ClInclude Include="ConcreteProductA1.h" />
     <ClInclude Include="ConcreteProductA2.h" />
     <ClInclude Include="ConcreteProductB1.h" />
     <ClInclude Include="ConcreteProductB2.h" />
+    <ClInclude Include="ExampleUIDecouple\Application.h" />
+    <ClInclude Include="ExampleUIDecouple\CrossPlatformUI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

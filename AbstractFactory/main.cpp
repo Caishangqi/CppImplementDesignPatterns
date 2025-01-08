@@ -13,10 +13,14 @@
 
 #include <iostream>
 
+#include "common.h"
 #include "AbstractFactory.h"
 #include "AbstractProductB.h"
 #include "ConcreteFactory1.h"
 #include "ConcreteFactory2.h"
+#include "ExampleUIDecouple/Application.h"
+#include "ExampleUIDecouple/CrossPlatformUI.h"
+
 
 class ConcreteFactory2;
 
@@ -32,6 +36,7 @@ void ClientCode(const AbstractFactory& factory)
 
 int main(int argc, char* argv[])
 {
+#ifdef USE_CONCEPTUAL_EXAMPLE
     std::cout << "Client: Testing client code with the first factory type:\n";
     ConcreteFactory1* f1 = new ConcreteFactory1();
     ClientCode(*f1);
@@ -42,4 +47,13 @@ int main(int argc, char* argv[])
     ClientCode(*f2);
     delete f2;
     return 0;
+#endif
+#ifdef USE_REAL_EXAMPLE
+    AppConfig config;
+    config.operationSystem = OperationSystem::MAC;
+    Application app(config);
+    app.createUI();
+    app.paint();
+    return 0;
+#endif
 }
