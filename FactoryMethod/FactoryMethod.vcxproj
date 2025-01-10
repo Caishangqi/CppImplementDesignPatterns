@@ -166,7 +166,7 @@
     <ClInclude Include="Product.h" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="FactoryMethod.md" />
+    <Content Include="Factory Method.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
