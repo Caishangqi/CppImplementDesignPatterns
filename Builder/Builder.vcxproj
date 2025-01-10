@@ -162,6 +162,9 @@
     <ClInclude Include="Director.h" />
     <ClInclude Include="Product1.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Builder.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
