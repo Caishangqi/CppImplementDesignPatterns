@@ -27,6 +27,7 @@ This project will use C++ to implement popular design patterns, and use conceptu
 - Creational Design Patterns
   - [Factory Method](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/FactoryMethod/Factory%20Method.md)
   - [Abstract Factory](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/AbstractFactory/Abstract%20Factory.md)
+  - [Builder](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Builder/Builder.md)
 
 ## Special Notes
 
