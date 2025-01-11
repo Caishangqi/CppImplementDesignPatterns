@@ -8,6 +8,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppImplementDesignPatterns"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Builder", "..\Builder\Builder.vcxproj", "{0530C66B-EA20-4DCE-9CFF-B52E4939FCD8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "..\Prototype\Prototype.vcxproj", "{AE80AD98-D635-4CEC-806E-B550FDA06784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -40,5 +42,13 @@ Global
 		{0530C66B-EA20-4DCE-9CFF-B52E4939FCD8}.Release|Win32.Build.0 = Release|Win32
 		{0530C66B-EA20-4DCE-9CFF-B52E4939FCD8}.Release|x64.ActiveCfg = Release|x64
 		{0530C66B-EA20-4DCE-9CFF-B52E4939FCD8}.Release|x64.Build.0 = Release|x64
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Debug|Win32.Build.0 = Debug|Win32
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Debug|x64.ActiveCfg = Debug|x64
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Debug|x64.Build.0 = Debug|x64
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|Win32.ActiveCfg = Release|Win32
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|Win32.Build.0 = Release|Win32
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|x64.ActiveCfg = Release|x64
+		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
