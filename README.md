@@ -28,7 +28,9 @@ This project will use C++ to implement popular design patterns, and use conceptu
   - [Factory Method](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/FactoryMethod/Factory%20Method.md)
   - [Abstract Factory](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/AbstractFactory/Abstract%20Factory.md)
   - [Builder](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Builder/Builder.md)
-
+  - [Prototype](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Prototype/Prototype.md)
+  - [Singleton](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Singleton/Singleton.md)
+- Structural Design Patterns
 ## Special Notes
 
 > Thanks to [@RealSeek](https://github.com/RealSeek) for providing the genuine textbooks. Without her, I would have been using the wrong pirated textbooks (
