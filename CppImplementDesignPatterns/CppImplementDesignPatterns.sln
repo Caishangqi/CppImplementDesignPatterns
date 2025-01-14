@@ -10,6 +10,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Builder", "..\Builder\Build
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "..\Prototype\Prototype.vcxproj", "{AE80AD98-D635-4CEC-806E-B550FDA06784}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "..\Singleton\Singleton.vcxproj", "{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -50,5 +52,13 @@ Global
 		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|Win32.Build.0 = Release|Win32
 		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|x64.ActiveCfg = Release|x64
 		{AE80AD98-D635-4CEC-806E-B550FDA06784}.Release|x64.Build.0 = Release|x64
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Debug|Win32.Build.0 = Debug|Win32
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Debug|x64.ActiveCfg = Debug|x64
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Debug|x64.Build.0 = Debug|x64
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Release|Win32.ActiveCfg = Release|Win32
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Release|Win32.Build.0 = Release|Win32
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Release|x64.ActiveCfg = Release|x64
+		{8B6FA2E1-7C43-4005-AB74-BE7F79E4962C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
