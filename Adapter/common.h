@@ -1,0 +1,4 @@
+﻿#pragma once
+
+//#define USE_MULTIPLE_INHERITANCE
+#define USE_SINGLE_INHERITANCE
