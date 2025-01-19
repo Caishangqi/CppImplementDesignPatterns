@@ -32,6 +32,7 @@ This project will use C++ to implement popular design patterns, and use conceptu
   - [Singleton](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Singleton/Singleton.md)
 - Structural Design Patterns
   - [Adapter](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Adapter/Adapter.md)
+  - [Bridget](https://github.com/Caishangqi/CppImplementDesignPatterns/blob/main/Bridge/Bridge.md)
 ## Special Notes
 
 > Thanks to [@RealSeek](https://github.com/RealSeek) for providing the genuine textbooks. Without her, I would have been using the wrong pirated textbooks (
